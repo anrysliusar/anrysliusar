@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anrysliusar&layout=compact)](https://github.com/anrysliusar/github-readme-stats)
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=anrysliusar alt=anrysliusar /> </p>
+![Profile views](https://gpvc.arturio.dev/anrysliusar) 
