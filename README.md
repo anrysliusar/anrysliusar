@@ -4,6 +4,6 @@
 ## Some of my Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anrysliusar&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anrysliusar&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anrysliusar&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/anrysliusar) 
