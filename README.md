@@ -6,4 +6,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anrysliusar&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/anrysliusar) 
